@@ -536,6 +536,7 @@
 	}
 	.poster-text p{
 		font-size: 14px;
+		line-height: 1;
 	}
 	.poster-content-1{
 		text-align: center;

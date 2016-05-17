@@ -92,6 +92,7 @@
      // loop:true,
     // margin:10,
     nav:true,
+     loop:true,
     responsiveClass:true,
     responsive:{
         0:{
@@ -147,6 +148,7 @@ $(document).ready(function() {
   $("#slider-1").owlCarousel({
     // loop:true,
     // margin:10,
+     loop:true,
     nav:true,
     responsiveClass:true,
     responsive:{

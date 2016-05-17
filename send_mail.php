@@ -31,7 +31,7 @@
 
       
 
-       $to = "info@termexpro.com";
+       $to = "info@uv-studio.com";
 
        $charset = "utf-8";
 

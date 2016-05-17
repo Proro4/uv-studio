@@ -1515,3 +1515,21 @@ margin-top: 2px;
   left: 5%;
   top:530px;
 }
+.owl-dots{
+    height: 25px;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    top: 550px
+}
+.owl-dot{
+    margin: 0 10px;
+    height: 10px;
+    width: 10px;
+    border-radius: 50px;
+    background: rgba(0, 0, 0,0.4);
+    display: inline-block;
+}
+.owl-dot.active{
+    background: rgba(0, 0, 0,0.9);
+}

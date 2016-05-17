@@ -44,18 +44,15 @@
         }
 
         if (_scrollTop > headShadow){
-           _header.css({'box-shadow':'0px 2px 0px #f78222, 0px 4px 2px #cbcbcb'});
            _MenuLi.css({'padding-bottom':'2px'});
            _headFix.addClass('head-fix');
         }
         else{
-          _header.css({'box-shadow':'0px 2px 0px transparent'});
            _MenuLi.css({'padding-bottom':'0px'});
            _headFix.removeClass('head-fix');
         }
       }
       else{
-           _header.css({'box-shadow':'0px 2px 0px #f78222, 0px 4px 2px #cbcbcb'});
            _MenuLi.css({'padding-bottom':'2px'}); 
 
            _headFix.addClass('head-fix');
